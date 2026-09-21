@@ -557,11 +557,11 @@ definitions:
 
   # Metadata ===================================================================
 
-  PROJECT_NAME: Project Name
-  BOARD_NAME: Board Name
+  PROJECT_NAME: teste kibot
+  BOARD_NAME: simple_led
 
-  COMPANY: Company Name
-  DESIGNER: Author
+  COMPANY: 
+  DESIGNER: Gustavo B. Guazzelli
 
   LOGO: 'Logos/dummy_logo.png'
   GIT_URL: 'https://github.com/nguyen-v/KDT_Hierarchical_KiBot'
